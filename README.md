@@ -8,7 +8,7 @@
   <p>🚀 Dedicated to technical growth and continuous self-improvement</p>
 </ul>
 
-<h3 align="center">Tech Stack 🛠️</h3>
+<h3 align="center"> 🛠️Tech Stack 🛠️</h3>
 
 <p align="center">
   <strong>Server & Container</strong><br>
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-<h3 align="center">Github Stats</h3>
+<h3 align="center">📊Github Stats📊</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chan0e&layout=compact" alt="Top Langs">
